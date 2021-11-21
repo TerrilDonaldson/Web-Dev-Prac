@@ -1,3 +1,3 @@
 # Web-Dev-Prac
 
-## This is my introduction to html and css.
+## This is my introduction to web development.
